@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.2*%
+%TF.CreationDate,2024-01-20T15:19:51+00:00*%
+%TF.ProjectId,Si5351a and Audio Gain Board,53693533-3531-4612-9061-6e6420417564,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.2) date 2024-01-20 15:19:51*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X97120000Y-57600000D02*
+X177120000Y-57600000D01*
+X177120000Y-117600000D01*
+X97120000Y-117600000D01*
+X97120000Y-57600000D01*
+M02*
